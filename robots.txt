@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sanjaykumarwebtech.github.io/website-ranker/sitemap.xml
